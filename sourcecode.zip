@@ -1,0 +1,269 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title> Arena_DCW_D2010K1_Hovaten  </title>
+</head>
+	<style>
+		
+		.tieude{
+			color:aliceblue;
+			font-size: 20px;
+			text-align: right;
+			background-color: #04303A;
+			height: 90px;
+			width: 100%;
+			position: relative;
+			display: flex;
+            align-items: center;
+		}
+		li{
+			display: inline;
+			padding: 20px;
+			position: relative;
+			margin-left: 75%;
+			margin-right:-75%;
+			
+			
+			
+		}
+		.hinh1{
+			height: 50px;
+			width: 50px;
+			margin-top: -68px;
+			margin-left: 100px;
+			position: absolute;
+		}
+		
+		
+		h1{
+			margin-left:  440px;
+			color:aliceblue;
+			position: relative;
+			font-size: 90px;
+		}
+		h2{
+			margin-left: 535px;
+			color:#3E360F;
+			position: relative;
+			margin-top: -60px;
+		
+		}
+		.hinh2{
+			height: 546px;
+			margin-top: -275px;
+			width: 100%;
+		}
+		.than{
+			background-color: antiquewhite;
+			margin-top: -55px;
+			height: 500px;
+		    width: 100%;
+		}
+		h3{
+			color: #000000;
+			font-size: 50px;
+			padding-left: 40px;
+		}
+		p{
+			padding-left: 40px;
+			margin-top: -50px;
+			padding-right: 40px;
+		}
+		.hinh3{
+			height: 190px;
+			width: 190px;
+			padding-left: 18%;
+			margin-top: 70px;
+			padding-right: 13%;
+			
+		}
+		.hinh4{
+			height: 190px;
+			width: 190px;
+			padding-right: 150px;
+		}
+		.hinh5{
+			height: 190px;
+			width: 190px;
+		}
+		h4{
+			font-size: 40px;
+			color:aliceblue;
+			padding-left: 40px;
+			
+		}
+		p1{
+		    padding-left: 40px;
+			color: aliceblue;
+			position: absolute;
+			margin-top: -30px;
+			padding-right: 40px;
+			
+			
+		}
+		.cuoi{
+			background-color: #04303A;
+			position: relative;
+			height: 700px;
+			margin-top: -50px;
+			width: 100%;
+		
+		}
+		.hinh6{
+			height: 125px;
+			width: 150px;
+			padding-left: 30%;
+			margin-top: -400px;
+			position: absolute;
+		}
+		.hinh7{
+			height: :190px;
+			width: 190px;
+			position: absolute;
+			margin-top: -400px;
+			padding-left: 60%;
+		
+			position: absolute;
+		}
+		h5{
+			font-size: 30px;
+			color: aliceblue;
+			position: relative;
+			padding-left: 32%;
+			margin-top: -450px;
+			
+			
+		}
+		h6{
+			font-size:30px;
+			color: aliceblue;
+			position: relative;
+			padding-left: 65%;
+			margin-top: -90px;
+			
+		}
+		.vv{
+		
+			position: relative;
+			color: aliceblue;
+			text-align: center;
+		    margin-left:-28%; 
+		    margin-top: 170px;
+			
+			
+		}
+		.cc{
+			position: relative;
+			color: aliceblue;
+			text-align: center;
+			margin-left: 37%;
+			margin-top: -90px;
+			padding-bottom: 90px;
+		}
+		.mm{
+		    background-color: #35310C;
+			width: 100%;
+			height: 500px;
+			position: relative;
+		}
+		.hinh9{
+			height: 200px;
+			width: 200px;
+			position: absolute;
+			margin-top: -400px;
+			margin-left: 90px;
+		}
+		h7{
+			font-size: 50px;
+			color: aliceblue;
+			margin-left: 90px;
+		}
+		h8{
+			margin-left: 90px;
+			position: absolute;
+			margin-top: 120px;
+			color: aliceblue;
+		}
+		p4{
+			position: absolute;
+			margin-left: 90px;
+			margin-top: 160px;
+			color: aliceblue;
+		}
+		p5{
+			text-align: center;
+			color: aliceblue;
+			position: absolute;
+			margin-top: 450px;
+			margin-left: 30%
+		}
+		
+	
+	</style>
+
+<body>
+	<div class="tieude">
+	<li> About</li>
+	<li> Menu </li> 
+	<li>Location</li>
+		</div>
+	<img class="hinh1" src="cach-thiet-ke-logo-quan-cafe (1).png">
+	
+	
+
+	<div class=" body">
+	
+	<h1>Central Coffee</h1>
+	<h2>Bespoke organically-sourced coffee</h2>
+		</div>
+	<img class="hinh2" src="albert-s-FkNfVgHVzkI-unsplash.jpg">
+	<div class="than">
+	 <h3>About</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis sagittis urna, a fermentum mauris. Mauris sagittis eu urna at sollicitudin. Sed et dui accumsan, vulputate dui ut, fringilla tellus. Vivamus a ex commodo, vulputate metus gravida, congue arcu. Fusce vehicula laoreet lorem vel lacinia. Etiam ac erat turpis. Morbi nec urna aliquet, placerat nisl ac, venenatis justo. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+		<img class="hinh3" src="francesco-sancassani-H7ZGacOl05w-unsplash.jpg">
+		<img class="hinh4" src="aneta-voborilova-z4aFfchLht4-unsplash.jpg">
+		<img class="hinh5" src="nathan-dumlao-T5qXJ2VpV6M-unsplash.jpg">
+	</div>
+	<div class="cuoi">
+		<h4> Menu</h4>
+		<p1>Một thực tế đã có từ lâu rằng người đọc sẽ bị phân tâm bởi nội dung có thể đọc được của một trang khi nhìn vào bố cục của nó. Điểm đáng chú ý của việc sử dụng Lorem Ipsum là nó có sự phân bố các chữ cái bình thường ít nhiều, trái ngược với việc sử dụng 'Nội dung ở đây, nội dung ở đây', khiến nó trông giống như tiếng Anh có thể đọc được. Nhiều gói xuất bản trên máy tính để bàn và trình chỉnh sửa trang web hiện sử dụng Lorem Ipsum làm văn bản mô hình mặc định của họ và tìm kiếm 'lorem ipsum' sẽ phát hiện ra nhiều trang web vẫn còn sơ khai. Nhiều phiên bản khác nhau đã phát triển trong nhiều năm, đôi khi là do tình cờ, đôi khi là có chủ đích (thêm vào đó là sự hài hước và những thứ tương tự).</p1>
+		
+	</div>
+	    <img class="hinh6" src="tyler-nix-j3FidswVdQk-unsplash.jpg">
+		<img class="hinh7" src="toa-heftiba-W6sqUYlJRiw-unsplash.jpg">
+	 <h5>DRINKS</h5>
+		<h6>FOOD</h6>
+	<div class="vv">
+	<p2>La Catalina (Colombia)<br>
+
+Guarumales (Ecuador)<br>
+
+Rukondo (Rwanda)<br>
+
+Peppermint Tea<br>
+
+Black tea</p2>
+	</div>
+	<div class="cc">
+	
+	<p3>Frittata (Herb and Veggie, Italian, Corned Beef)<br>
+
+Breakfast sandwich<br>
+
+Cobb salad<br>
+
+Various baked goods</p3>
+	
+	</div>
+	<div class="mm">
+	<h7>Location</h7>
+    <h8> HOURS</h8>	
+		<p4>
+		Mon-Thurs -- 7am - 8pm<br>
+Fri-Sun -- 8am - 10pm</p4>
+	<p5> © 2018 Central Coffee</p5>
+	</div>
+	<img class="hinh9" src="thumbnail.jpeg">
+		</body>
+</html>
